@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1732464985 source:d:\coding\cpp\graph\main.cpp
+	<iostream>
+	"header.h"
+
+1732463549 d:\coding\cpp\graph\header.h
+	<iostream>
+
+1732466388 source:d:\coding\cpp\graph\source.cpp
+	<iostream>
+	"header.h"
+
